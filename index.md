@@ -1,8 +1,8 @@
-
+## Sisi Duan, 段斯斯
 
 <div class="row">
   <div class="col-md-4">
-    <img src="img/Sisi.jpg" alt="Sisi" style="width:30%">
+    <img src="img/Sisi.jpg" style="width:30%">
   </div>
   <div class="col-md-4">
     Researcher<br>
