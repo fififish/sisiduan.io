@@ -5,7 +5,7 @@
     <img src="img/Sisi.jpg" style="width:30%">
   </div>
   <div class="col-md-4">
-    Researcher<br>
+    Research Scientist, PhD Advisor<br>
     <a href="https://www.ias.tsinghua.edu.cn/">Intititue for Advanced Study</a><br>
     Tsinghua University <br>
     Email: duansisi AT tsinghua.edu.cn<br>
@@ -36,7 +36,7 @@ Dr. Sisi Duan is a Researcher at the Institute for Advanced Study, Tsinghua Univ
 Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DBLP</a> and <a href="https://scholar.google.com/citations?user=iHMbdVUAAAAJ&hl=en"> Google Scholar</a>. *Students under my supervision.<br>
 
 ### Conference Full Papers
-- [c20] James R. Clavin, Yue Huang, Xin Wang, Pradeep M. Prakash, Sisi Duan, Jianwu Wang, and Sean Peisert. A framework for evaluating BFT. ICPADS 2021. [<a href="files/framework-icpads21.pdf">PDF</a>][<a href="">DOI</a>]
+- [c20] James R. Clavin, Yue Huang, Xin Wang, Pradeep M. Prakash, Sisi Duan, Jianwu Wang, and Sean Peisert. A framework for evaluating BFT. ICPADS 2021. [<a href="">PDF</a>][<a href="">DOI</a>]
 - [c19] Chao Liu, Sisi Duan, and Haibin Zhang.EPIC: Efficient Asynchronous BFT with Adaptive Security, DSN 2020. [<a href="files/epic.pdf">PDF</a>][<a href="https://ieeexplore.ieee.org/abstract/document/9153421">DOI</a>]
 - [c18]	Sisi Duan, Chao Liu, Xin Wang, Yusen Wu, Shuai Xu, Yelena Yesha, Haibin Zhang. Intrusion-Tolerant and Confidentiality-Preserving Publish/Subscribe Messaging. SRDS 2020: 319-328. [<a href="files/chios-srds20.pdf">PDF</a>][<a href="https://ieeexplore.ieee.org/document/9252069">DOI</a>]
 - [c17] Sisi Duan, Michael K. Reiter, and Haibin Zhang. BEAT: Asynchronous BFT Made Practical, CCS 2018. [<a href="files/beat.pdf">PDF</a>][<a href="https://dl.acm.org/citation.cfm?id=3243812">DOI</a>][<a href="https://github.com/fififish/beat.git">Code</a>]
@@ -71,3 +71,26 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 
 ### Doctoral Dissertation
 - Sisi Duan. Building Reliable and Practical Byzantine Fault Tolerance. Ph.D. Dissertation, Computer Science, University of California, Davis, Dec 2014.  Committee members: Prof. Karl Levitt (chair), Prof. Sean Peisert, and Prof. Matt Bishop. [<a href="files/2014-SisiDuan-dissertation.pdf">PDF</a>]
+
+
+## Professional Service
+
+#### Conference PC
+- 2022: DSN
+- 2021: DSN
+- 2020: BIOTC, IDC
+- 2019: BTSD, NCA, IDCS
+- 2018: NCA, CISRC
+- 2017: NCA, CISRC
+- 2016: CISRC
+- 2015: CISRC
+- 2013: CSSIIRW
+#### Conference Co-Chair and Session Chair
+- 2018: IDCS, UIC
+
+#### Journal Reviewer
+- IEEE Transactions on Network and Service Management
+- IEEE Transactions on Dependable and Secure Computing
+- ACM Transactions on Internet Technology
+- IEEE Transactions on Knowledge and Data Engineering
+- IEEE Transactions on Vehicular Technology
