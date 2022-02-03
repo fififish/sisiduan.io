@@ -1,5 +1,3 @@
-## Sisi Duan 段斯斯
-
 
 
 <div class="row">
@@ -16,12 +14,12 @@
 
 
 
-### Short Bio
+## Short Bio
 
 Dr. Sisi Duan is a Researcher at the Institute for Advanced Study, Tsinghua University. She received her Ph.D. in Computer Science from the <a href="https://www.ucdavis.edu/">University of California, Davis</a> in 2014 (Advisors: Prof. Karl Levitt and Sean Peisert ). She got her bachelor degree in Electrical and Electronic Engineering from the <a href="https://www.hku.hk/">University of Hong Kong</a> in 2010. Prior to joining Tsinghua University in 2020, she was and Assistant Professor in the Department of Information Systems, <a href="https://www.umbc.edu/">University of Maryland, Baltimore County</a> from 2017 to 2020, a Weinberg fellow in Computational Data Analytics Group, <a href="https://www.ornl.gov">Oak Ridge National Laboratory</a> from 2015 to 2017. She is a member of <a href="https://www.bnrist.tsinghua.edu.cn/bnristen/">Beijing National Research Center for Science and technology</a>. Dr. Duan's research interests include security, blockchain, distributed systems, cyber physical systems.
 
 
-### Awards and Honors
+## Awards and Honors
 
 - 2021 MIT TR35 China by MIT Technology Review
 - Named as one of the Maryland's cyber warrior women, 2019. 
@@ -33,11 +31,11 @@ Dr. Sisi Duan is a Researcher at the Institute for Advanced Study, Tsinghua Univ
 - Top 100 in Google Code Jam I/O for Women 2014 (Rank: 30th).
 - Block Grant Fellowship, Office of Graduate Studies, University of California, Davis, 2011.
 
-### Publication
+## Publication
 
 Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DBLP</a> and <a href="https://scholar.google.com/citations?user=iHMbdVUAAAAJ&hl=en"> Google Scholar</a>. *Students under my supervision.<br>
 
-#### Conference Full Papers
+### Conference Full Papers
 - [c20] James R. Clavin, Yue Huang, Xin Wang, Pradeep M. Prakash, Sisi Duan, Jianwu Wang, and Sean Peisert. A framework for evaluating BFT. ICPADS 2021. [<a href="files/framework-icpads21.pdf">PDF</a>][<a href="">DOI</a>]
 - [c19] Chao Liu, Sisi Duan, and Haibin Zhang.EPIC: Efficient Asynchronous BFT with Adaptive Security, DSN 2020. [<a href="files/epic.pdf">PDF</a>][<a href="https://ieeexplore.ieee.org/abstract/document/9153421">DOI</a>]
 - [c18]	Sisi Duan, Chao Liu, Xin Wang, Yusen Wu, Shuai Xu, Yelena Yesha, Haibin Zhang. Intrusion-Tolerant and Confidentiality-Preserving Publish/Subscribe Messaging. SRDS 2020: 319-328. [<a href="files/chios-srds20.pdf">PDF</a>][<a href="https://ieeexplore.ieee.org/document/9252069">DOI</a>]
@@ -59,11 +57,11 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [c2] Sisi Duan, Karl Levitt, Hein Meling, Sean Peisert, and Haibin Zhang. ByzID: Byzantine Fault Tolerance from Intrusion Detection.  SRDS 2014: 253-264. [<a href="files/byzid_SRDS_final.pdf">PDF</a>][<a href="http://ieeexplore.ieee.org/document/6983400/?arnumber=6983400">DOI</a>]  <font color="#26A0F4  "> Best Paper Candidate Award. </font>
 - [c1] Tiancheng Chang, Sisi Duan, Hein Meling, Sean Peisert, and Haibin Zhang. P2S: A Fault-Tolerant Publish/Subscribe Infrastructure. DEBS 2014: 189-197. [<a href="files/p2s.pdf">PDF</a>][<a href="http://dl.acm.org/citation.cfm?doid=2611286.2611305">DOI</a>]
            
-#### Conference Short Papers
+### Conference Short Papers
 - [s2] James Clavin*, Pradeep M. Prakash, and Sisi Duan. ByzGame: Byzantine Generals Game. DEBS 2020.  [<a href="">PDF</a>][<a href="">DOI</a>][<a href="https://www.byzgame.com/">Access ByzGame</a>]
 - [s1] James Clavin* and Sisi Duan. Demo Abstract: ByzGame, a Visualized and Understandable BFT Consensus. Middleware 2019. [<a href="files/byzgamemiddleware.pdf">PDF</a>][<a href="https://dl.acm.org/citation.cfm?id=3368109">DOI</a>]
 
-#### Journal
+### Journal
 - [j6] Xin Wang, Sisi Duan, James Clavin, and Haibin Zhang. BFT in Blockchains: From Protocols to Use Cases. ACM Computing Surveys, 2022. (Online: Dec 2021).  [PDF][<a href="https://dl.acm.org/doi/abs/10.1145/3503042">DOI</a>]
 - [j5] Guohou Shan, Boxin Zhao, James R. Clavin, Haibin Zhang, and Sisi Duan. Poligraph: Intrusion-Tolerant and Distributed Fake News Detection System. IEEE Trans. Inf. Forensics Secur. 17: 28-41, 2022. [PDF][<a href="https://ieeexplore.ieee.org/document/9627681">DOI</a>]
 - [j4] James R. Clavin, Sisi Duan, Haibin Zhang, Vandana P. Janeja, Karuna P. Joshi, Yelena Yesha, Lucy C. Erickson, and Justin D. Li. Blockchains for Government: Use Cases and Challenges. Digit. Gov. Res. Pract. 1(3): 22:1-22:21, 2020. [PDF][<a href="https://dl.acm.org/doi/10.1145/3427097">DOI</a>]
@@ -71,5 +69,5 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [j2] Sisi Duan, Sangkeun Lee, Supriya Chinthavali, and Mallikarjun Shankar. Best Effort Broadcast under Cascading Failures in Interdependent Critical Infrastructure Networks. Elsevier Pervasive and Mobile Computing, 43: 114-130, 2018. [<a href="files/PMC-BestEffort.pdf">PDF</a>][<a href="http://www.sciencedirect.com/science/article/pii/S1574119217303243">DOI</a>]
 - [j1] Sisi Duan, Sean Peisert, and Karl Levitt. hBFT: Speculative Byzantine Fault Tolerance with Minimum Cost. IEEE Transaction on Dependable and Secure Computing, 12(1): 58-70, 2015. [<a href="files/tdsc.pdf">PDF</a>][<a href="http://ieeexplore.ieee.org/document/6775264/?arnumber=6775264">DOI</a>] Note: hBFT has potential safety issues, as published <a href="https://arxiv.org/abs/1902.08505">here</a>.
 
-#### Doctoral Dissertation
+### Doctoral Dissertation
 - Sisi Duan. Building Reliable and Practical Byzantine Fault Tolerance. Ph.D. Dissertation, Computer Science, University of California, Davis, Dec 2014.  Committee members: Prof. Karl Levitt (chair), Prof. Sean Peisert, and Prof. Matt Bishop. [<a href="files/2014-SisiDuan-dissertation.pdf">PDF</a>]
