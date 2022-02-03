@@ -2,7 +2,7 @@
 
 <div class="row">
   <div class="col-md-4">
-    <img src="https://github.com/fififish/sisiduan.io/blob/gh-pages/img/Sisi.jpg" alt="Sisi" style="width:30%">
+    <img src="img/Sisi.jpg" alt="Sisi" style="width:30%">
   </div>
   <div class="col-md-4">
     Researcher<br>
