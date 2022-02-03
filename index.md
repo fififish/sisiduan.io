@@ -1,10 +1,19 @@
 ## Sisi Duan 段斯斯
 
-Researcher<br>
-<a href="https://www.ias.tsinghua.edu.cn/">Intititue for Advanced Study</a><br>
-Tsinghua University <br>
 
-Email: duansisi AT tsinghua.edu.cn
+
+<div class="row">
+  <div class="column">
+    <img src="img/sisi.jpg" alt="Sisi" style="width:100%">
+  </div>
+  <div class="column">
+    Researcher<br>
+    <a href="https://www.ias.tsinghua.edu.cn/">Intititue for Advanced Study</a><br>
+    Tsinghua University <br>
+    Email: duansisi AT tsinghua.edu.cn<br>
+  </div>
+</div>
+
 
 
 ### Short Bio
