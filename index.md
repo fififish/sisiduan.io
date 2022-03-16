@@ -33,7 +33,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 
 ### Conference Full Papers
 - [c22] Sisi Duan and Haibin Zhang. Foundations of Dyanmic BFT. S&P (Oakland) 2022, to appear. [PDF][DOI]
-- [c21] Sisi Duan, Xiao Sui, and Haibin Zhang. Marlin: Two-Phase BFT with Linearity. DSN 2022, to appear. [PDF][DOI]
+- [c21] Xiao Sui*, Sisi Duan, and Haibin Zhang. Marlin: Two-Phase BFT with Linearity. DSN 2022, to appear. [PDF][DOI]
 - [c20] James R. Clavin<sup>*</sup>, Yue Huang<sup>*</sup>, Xin Wang<sup>*</sup>, Pradeep M. Prakash<sup>*</sup>, Sisi Duan, Jianwu Wang, and Sean Peisert. A framework for evaluating BFT. ICPADS 2021. [<a href="files/eval-icpads21.pdf">PDF</a>][DOI]
 - [c19] Chao Liu<sup>*</sup>, Sisi Duan, and Haibin Zhang.EPIC: Efficient Asynchronous BFT with Adaptive Security, DSN 2020. [<a href="files/epic-dsn20.pdf">PDF</a>][<a href="https://ieeexplore.ieee.org/abstract/document/9153421">DOI</a>]
 - [c18]	Sisi Duan, Chao Liu<sup>*</sup>, Xin Wang<sup>*</sup>, Yusen Wu, Shuai Xu, Yelena Yesha, Haibin Zhang. Intrusion-Tolerant and Confidentiality-Preserving Publish/Subscribe Messaging. SRDS 2020: 319-328. [<a href="files/chios-srds20.pdf">PDF</a>][<a href="https://ieeexplore.ieee.org/document/9252069">DOI</a>]
