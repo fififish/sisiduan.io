@@ -32,7 +32,8 @@ Dr. Sisi Duan is a Researcher at the Institute for Advanced Study, Tsinghua Univ
 Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DBLP</a> and <a href="https://scholar.google.com/citations?user=iHMbdVUAAAAJ&hl=en"> Google Scholar</a>. *Students under my supervision.<br>
 
 ### Conference Full Papers
-- [c22] Sisi Duan and Haibin Zhang. Foundations of Dyanmic BFT. S&P (Oakland) 2022, to appear. [PDF][DOI]
+- [c23] Haibin Zhang abd Sisi Duan. PACE: Fully Parallelizable Asynchronous BFT from Reproposable Byzantine Agreement. CCS 2022, to appear. [PDF][DOI][<a href="https://eprint.iacr.org/2022/020">eprint</a>]
+- [c22] Sisi Duan and Haibin Zhang. Foundations of Dyanmic BFT. S&P (Oakland) 2022, to appear. [PDF][<a href="https://www.computer.org/csdl/proceedings-article/sp/2022/131600b546/1CIO7StCoZW">DOI</a>]
 - [c21] Xiao Sui*, Sisi Duan, and Haibin Zhang. Marlin: Two-Phase BFT with Linearity. DSN 2022, to appear. [PDF][DOI]
 - [c20] James R. Clavin<sup>*</sup>, Yue Huang<sup>*</sup>, Xin Wang<sup>*</sup>, Pradeep M. Prakash<sup>*</sup>, Sisi Duan, Jianwu Wang, and Sean Peisert. A framework for evaluating BFT. ICPADS 2021. [<a href="files/eval-icpads21.pdf">PDF</a>][DOI]
 - [c19] Chao Liu<sup>*</sup>, Sisi Duan, and Haibin Zhang.EPIC: Efficient Asynchronous BFT with Adaptive Security, DSN 2020. [<a href="files/epic-dsn20.pdf">PDF</a>][<a href="https://ieeexplore.ieee.org/abstract/document/9153421">DOI</a>]
