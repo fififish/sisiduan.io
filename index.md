@@ -13,11 +13,12 @@
 </div>
 
 ## Short Bio
-Dr. Sisi Duan is a Researcher at the Institute for Advanced Study, Tsinghua University. She received her Ph.D. in Computer Science from the <a href="https://www.ucdavis.edu/">University of California, Davis</a> in 2014 (Advisors: Prof. Karl Levitt and Sean Peisert ). She got her bachelor degree in Electrical and Electronic Engineering from the <a href="https://www.hku.hk/">University of Hong Kong</a> in 2010. Prior to joining Tsinghua University in 2020, she was and Assistant Professor in the Department of Information Systems, <a href="https://www.umbc.edu/">University of Maryland, Baltimore County</a> from 2017 to 2020, a Weinberg fellow in Computational Data Analytics Group, <a href="https://www.ornl.gov">Oak Ridge National Laboratory</a> from 2015 to 2017. She is a member of <a href="https://www.bnrist.tsinghua.edu.cn/bnristen/">Beijing National Research Center for Science and technology</a>. Dr. Duan's research interests include security, blockchain, distributed systems, cyber physical systems.
+Dr. Sisi Duan is a Researcher at the Institute for Advanced Study, Tsinghua University. She received her Ph.D. in Computer Science from the <a href="https://www.ucdavis.edu/">University of California, Davis</a> in 2014 (Advisors: Prof. Karl Levitt and Sean Peisert ). She got her bachelor degree in Electrical and Electronic Engineering from the <a href="https://www.hku.hk/">University of Hong Kong</a> in 2010. Prior to joining Tsinghua University in 2020, she was and Assistant Professor in the Department of Information Systems, <a href="https://www.umbc.edu/">University of Maryland, Baltimore County</a> from 2017 to 2020, a Weinberg fellow in Computational Data Analytics Group, <a href="https://www.ornl.gov">Oak Ridge National Laboratory</a> from 2015 to 2017. She is a member of <a href="https://www.bnrist.tsinghua.edu.cn/bnristen/">Beijing National Research Center for Science and technology</a> and National Financial Cryptography Research Center. Dr. Duan's research interests include distributed systems security, blockchain, cyber physical systems, and applied cryptography.
 
 
 ## Awards and Honors
-- MIT TR35 China by MIT Technology Review, 2021.
+- Tsinghua Young Scholar Research Award (学术新人奖), 2020.
+- 35 Innovators under 35 (TR35) China by MIT Technology Review, 2021.
 - Named as one of the Maryland's cyber warrior women, 2019. 
 - Best Paper in Networking Track (1 of the 3), ICDCN, 2017.
 - Alvin M. Weinberg Distinguished Fellowship, Oak Ridge National Laboratory, 2015.
@@ -32,8 +33,9 @@ Dr. Sisi Duan is a Researcher at the Institute for Advanced Study, Tsinghua Univ
 Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DBLP</a> and <a href="https://scholar.google.com/citations?user=iHMbdVUAAAAJ&hl=en"> Google Scholar</a>. *Students under my supervision.<br>
 
 ### Conference Full Papers
+- [c24] Nicolas Alhaddad, Sourav Das, Sisi Duan, Ling Ren, Mayank Varia, Zhuolun Xiang, and Haibin Zhang. Balanced Byzantine Reliable Broadcast with Near-Optimal Communication and Improved Computation. PODC 2022, to appear. [DOI][PDF]
 - [c23] Haibin Zhang abd Sisi Duan. PACE: Fully Parallelizable Asynchronous BFT from Reproposable Byzantine Agreement. CCS 2022, to appear. [DOI][<a href="https://eprint.iacr.org/2022/020">eprint</a>]
-- [c22] Sisi Duan and Haibin Zhang. Foundations of Dyanmic BFT. S&P (Oakland) 2022, to appear. [PDF][<a href="https://www.computer.org/csdl/proceedings-article/sp/2022/131600b546/1CIO7StCoZW">DOI</a>]
+- [c22] Sisi Duan and Haibin Zhang. Foundations of Dyanmic BFT. S&P (Oakland) 2022, to appear. [<a href="https://www.computer.org/csdl/proceedings-article/sp/2022/131600b546/1CIO7StCoZW">DOI</a>][<a href="https://eprint.iacr.org/2022/597">eprint</a>]
 - [c21] Xiao Sui*, Sisi Duan, and Haibin Zhang. Marlin: Two-Phase BFT with Linearity. DSN 2022, to appear. [<a href="files/marlin-dsn22.pdf">PDF</a>][DOI]
 - [c20] James R. Clavin<sup>*</sup>, Yue Huang<sup>*</sup>, Xin Wang<sup>*</sup>, Pradeep M. Prakash<sup>*</sup>, Sisi Duan, Jianwu Wang, and Sean Peisert. A framework for evaluating BFT. ICPADS 2021. [<a href="files/eval-icpads21.pdf">PDF</a>][<a href="https://ieeexplore.ieee.org/abstract/document/9763687/">DOI</a>]
 - [c19] Chao Liu<sup>*</sup>, Sisi Duan, and Haibin Zhang.EPIC: Efficient Asynchronous BFT with Adaptive Security, DSN 2020. [<a href="files/epic-dsn20.pdf">PDF</a>][<a href="https://ieeexplore.ieee.org/abstract/document/9153421">DOI</a>]
@@ -57,6 +59,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [c1] Tiancheng Chang, Sisi Duan, Hein Meling, Sean Peisert, and Haibin Zhang. P2S: A Fault-Tolerant Publish/Subscribe Infrastructure. DEBS 2014: 189-197. [<a href="files/p2s.pdf">PDF</a>][<a href="http://dl.acm.org/citation.cfm?doid=2611286.2611305">DOI</a>]
            
 ### Conference Short Papers
+- [s3] Nicolas Alhaddad, Sourav Das, Sisi Duan, Ling Ren, Mayank Varia, Zhuolun Xiang, and Haibin Zhang. Brief Announcement: Asynchronous Verifiable Information Dispersal with Near-Optimal Communication. PODC 2022, to appear. [DOI][PDF]
 - [s2] James R. Clavin<sup>*</sup>, Pradeep M. Prakash, and Sisi Duan. ByzGame: Byzantine Generals Game. DEBS 2020.  [<a href="files/ByzGame_DEBS20.pdf">PDF</a>][<a href="https://dl.acm.org/doi/10.1145/3401025.3401739">DOI</a>][<a href="https://www.byzgame.com/">Access ByzGame</a>]
 - [s1] James R. Clavin<sup>*</sup> and Sisi Duan. Demo Abstract: ByzGame, a Visualized and Understandable BFT Consensus. Middleware 2019. [<a href="files/byzgamemiddleware.pdf">PDF</a>][<a href="https://dl.acm.org/citation.cfm?id=3368109">DOI</a>]
 
@@ -75,7 +78,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 ## Professional Service
 
 #### Conference PC
-- 2022: DSN
+- 2022: DSN, CCSW
 - 2021: DSN, NCA
 - 2020: BIOTC, IDC, NCA
 - 2019: BTSD, NCA, IDCS
