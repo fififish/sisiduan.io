@@ -17,7 +17,7 @@ Dr. Sisi Duan is a Researcher at the <a href="https://www.ias.tsinghua.edu.cn/en
 
 
 ## Awards and Honors
-- Tsinghua Young Scholar Research Award (学术新人奖), 2020.
+- Tsinghua Young Scholar Research Award (学术新人奖), 2021.
 - 35 Innovators under 35 (TR35) China by MIT Technology Review, 2021.
 - Named as one of the Maryland's cyber warrior women, 2019. 
 - Best Paper in Networking Track (1 of the 3), ICDCN, 2017.
