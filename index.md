@@ -64,7 +64,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [s1] James R. Clavin<sup>*</sup> and Sisi Duan. Demo Abstract: ByzGame, a Visualized and Understandable BFT Consensus. Middleware 2019. [<a href="files/byzgamemiddleware.pdf">PDF</a>][<a href="https://dl.acm.org/citation.cfm?id=3368109">DOI</a>]
 
 ### Journal
-- [j8] Haibin Zhang, Chao Liu<sup>*</sup>, and Sisi Duan. How to Achieve Adaptive Security for Asynchronous BFT? JPDC 2022. [PDF][<a href="https://www.sciencedirect.com/science/article/pii/S0743731522001678>DOI</a>]
+- [j8] Haibin Zhang, Chao Liu<sup>*</sup>, and Sisi Duan. How to Achieve Adaptive Security for Asynchronous BFT? JPDC 2022. [PDF][<a href="https://www.sciencedirect.com/science/article/pii/S0743731522001678">DOI</a>]
 - [j7] Sisi Duan and Haibin Zhang. Recent Progress on BFT in the Era of Blockchains. National Science Reviw, 2022. [PDF][<a href="https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwac132/6633702?searchresult=1">DOI</a>]
 - [j6] Xin Wang<sup>*</sup>, Sisi Duan, James R. Clavin<sup>*</sup>, and Haibin Zhang. BFT in Blockchains: From Protocols to Use Cases. ACM Computing Surveys, 2022. (Online: Dec 2021).  [<a href="files/bft-csur22.pdf">PDF</a>][<a href="https://dl.acm.org/doi/abs/10.1145/3503042">DOI</a>]
 - [j5] Guohou Shan, Boxin Zhao<sup>*</sup>, James R. Clavin<sup>*</sup>, Haibin Zhang, and Sisi Duan. Poligraph: Intrusion-Tolerant and Distributed Fake News Detection System. IEEE Transactions on Information Forensics and Security 17: 28-41, 2022. [<a href="files/Poligraph_TIFS21">PDF</a>][<a href="https://ieeexplore.ieee.org/document/9627681">DOI</a>]
