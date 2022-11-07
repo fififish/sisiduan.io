@@ -34,7 +34,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 
 ### Conference Full Papers
 - [c24] Nicolas Alhaddad, Sourav Das, Sisi Duan, Ling Ren, Mayank Varia, Zhuolun Xiang, and Haibin Zhang. Balanced Byzantine Reliable Broadcast with Near-Optimal Communication and Improved Computation. PODC 2022. [<a href="https://dl.acm.org/doi/10.1145/3519270.3538475">DOI</a>][<a href="https://eprint.iacr.org/2022/776">eprint</a>]
-- [c23] Haibin Zhang abd Sisi Duan. PACE: Fully Parallelizable Asynchronous BFT from Reproposable Byzantine Agreement. CCS 2022, to appear. [DOI][<a href="https://eprint.iacr.org/2022/020">eprint</a>]
+- [c23] Haibin Zhang abd Sisi Duan. PACE: Fully Parallelizable Asynchronous BFT from Reproposable Byzantine Agreement. CCS 2022, to appear. [DOI][<a href="https://eprint.iacr.org/2022/020">eprint</a>][<a href="https://github.com/fififish/pace.git">code</a>]
 - [c22] Sisi Duan and Haibin Zhang. Foundations of Dyanmic BFT. S&P (Oakland) 2022. [<a href="https://www.computer.org/csdl/proceedings-article/sp/2022/131600b546/1CIO7StCoZW">DOI</a>][<a href="https://eprint.iacr.org/2022/597">eprint</a>][<a href="https://www.youtube.com/watch?v=hfHl14Q7DaA">teasor</a>]
 - [c21] Xiao Sui*, Sisi Duan, and Haibin Zhang. Marlin: Two-Phase BFT with Linearity. DSN 2022. [<a href="files/marlin-dsn22.pdf">PDF</a>][DOI][<a href="https://www.youtube.com/watch?v=c6lLj-604bc">teasor</a>]
 - [c20] James R. Clavin<sup>*</sup>, Yue Huang<sup>*</sup>, Xin Wang<sup>*</sup>, Pradeep M. Prakash<sup>*</sup>, Sisi Duan, Jianwu Wang, and Sean Peisert. A framework for evaluating BFT. ICPADS 2021. [<a href="files/eval-icpads21.pdf">PDF</a>][<a href="https://ieeexplore.ieee.org/abstract/document/9763687/">DOI</a>]
@@ -80,7 +80,8 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 ## Professional Service
 
 #### Conference PC
-- 2022: DSN, CCSW
+- 2023: DSN, ICDCS
+- 2022: DSN, NCA, CCSW
 - 2021: DSN, NCA
 - 2020: BIOTC, IDC, NCA
 - 2019: BTSD, NCA, IDCS
@@ -94,6 +95,8 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - 2018: IDCS, UIC
 
 #### Journal Reviewer
+- Elsevier Pervasive and Mobile Computing
+- ScienceDirect Journal of Parallel and Distributed Computing
 - IEEE Transactions on Network and Service Management
 - IEEE Transactions on Dependable and Secure Computing
 - ACM Transactions on Internet Technology
