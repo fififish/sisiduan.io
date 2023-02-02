@@ -86,7 +86,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 
 ## Group
 
-I have been fotunate to work with some great students.
+I have been fortunate to work with some great students.
 
 #### Postdoc
 - <a href="http://rujia.uk/">Rujia Li</a> (Shuimu Scholar, 2023 - now)
