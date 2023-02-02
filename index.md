@@ -33,7 +33,7 @@ Dr. Sisi Duan is a Researcher at the <a href="https://www.ias.tsinghua.edu.cn/en
 Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DBLP</a> and <a href="https://scholar.google.com/citations?user=iHMbdVUAAAAJ&hl=en"> Google Scholar</a>. *Students under my supervision.<br>
 
 ### Conference Full Papers
-- [c25] Xinrui Zhang, Rujia Li*, Qin Wang, Qi Wang and Sisi Duan. Time-manipulation Attack: Breaking Fairness against Proof of Authority Aura. The Web Conf (WWW) 2023. [DOI][PDF][<a href="https://github.com/auraAttack/Time-manipulation-Attack"code</a>]
+- [c25] Xinrui Zhang, Rujia Li*, Qin Wang, Qi Wang and Sisi Duan. Time-manipulation Attack: Breaking Fairness against Proof of Authority Aura. The Web Conf (WWW) 2023. [DOI][PDF][<a href="https://github.com/auraAttack/Time-manipulation-Attack">code</a>]
 - [c24] Nicolas Alhaddad, Sourav Das, Sisi Duan, Ling Ren, Mayank Varia, Zhuolun Xiang, and Haibin Zhang. Balanced Byzantine Reliable Broadcast with Near-Optimal Communication and Improved Computation. PODC 2022. [<a href="https://dl.acm.org/doi/10.1145/3519270.3538475">DOI</a>][<a href="https://eprint.iacr.org/2022/776">eprint</a>]
 - [c23] Haibin Zhang abd Sisi Duan. PACE: Fully Parallelizable Asynchronous BFT from Reproposable Byzantine Agreement. CCS 2022. [<a href="https://dl.acm.org/doi/10.1145/3548606.3559348">DOI</a>][<a href="https://eprint.iacr.org/2022/020">eprint</a>][<a href="https://github.com/fififish/pace.git">code</a>]
 - [c22] Sisi Duan and Haibin Zhang. Foundations of Dyanmic BFT. S&P (Oakland) 2022. [<a href="https://www.computer.org/csdl/proceedings-article/sp/2022/131600b546/1CIO7StCoZW">DOI</a>][<a href="https://eprint.iacr.org/2022/597">eprint</a>][<a href="https://www.youtube.com/watch?v=hfHl14Q7DaA">teasor</a>][<a href="https://www.youtube.com/watch?v=fXPlGOWhYp0">presentation</a>]
@@ -84,6 +84,24 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 ### Doctoral Dissertation
 - Sisi Duan. Building Reliable and Practical Byzantine Fault Tolerance. Ph.D. Dissertation, Computer Science, University of California, Davis, Dec 2014.  Committee members: Prof. Karl Levitt (chair), Prof. Sean Peisert, and Prof. Matt Bishop. [<a href="files/2014-SisiDuan-dissertation.pdf">PDF</a>]
 
+## Group
+
+I have been fotunate to work with some great students.
+
+#### Postdoc
+- <a href="http://rujia.uk/">Rujia Li</a> (Shuimu Scholar, 2023 - now)
+- Xin Wang (2023 - now)
+
+#### PhD
+- Yue Huang (Fall 2022 - now)
+- Xuanji Meng (Fall 2021 - now)
+- Xiao Sui (Fall 2021 - now) 
+- Haochen Wang (Fall 2020 - now)
+- Jim Clavin (UMBC, Summer 2018 - now, advised by Prof. Karuna Joshi now)
+
+#### Alumni
+- Xin Wang (UMBC, graduated in 2022, current job: Postdoc at Tsinghua)
+- Chao Liu (UMBC, graduated in 2022, current job: assistant professor at Quanzhou Normal University)
 
 ## Professional Service
 
