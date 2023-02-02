@@ -89,8 +89,8 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 I have been fortunate to work with some great students.
 
 #### Postdoc
-- <a href="http://rujia.uk/">Rujia Li</a> (Shuimu Scholar, 2023 - now)
-- Xin Wang (2023 - now)
+- <a href="http://rujia.uk/">Rujia Li</a> (Shuimu Scholar, Jan 2023 - now)
+- Xin Wang (Nov 2022 - now)
 
 #### PhD
 - Yue Huang (Fall 2022 - now)
@@ -101,7 +101,7 @@ I have been fortunate to work with some great students.
 
 #### Alumni
 - Xin Wang (UMBC, graduated in 2022, current job: Postdoc at Tsinghua)
-- Chao Liu (UMBC, graduated in 2022, current job: assistant professor at Quanzhou Normal University)
+- Chao Liu (UMBC, graduated in 2022, current job: Associate Professor at Quanzhou Normal University)
 
 ## Professional Service
 
