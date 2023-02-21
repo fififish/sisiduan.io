@@ -75,12 +75,12 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [j1] Sisi Duan, Sean Peisert, and Karl Levitt. hBFT: Speculative Byzantine Fault Tolerance with Minimum Cost. IEEE Transaction on Dependable and Secure Computing, 12(1): 58-70, 2015. [<a href="files/tdsc.pdf">PDF</a>][<a href="http://ieeexplore.ieee.org/document/6775264/?arnumber=6775264">DOI</a>] Note: hBFT has potential safety issues, as published <a href="https://arxiv.org/abs/1902.08505">here</a>.
 
 ### Manuscripts
-- Sisi Duan, Xin Wang, and Haibin Zhang. Practical Signature-Free Asynchronous Common Subset in Constant Time.  [<a href="https://eprint.iacr.org/2023/154">eprint</a>]
-- Haibin Zhang, Sisi Duan, Chao Liu, Boxin Zhao, Xuanji Meng, Shengli Liu, Yong Yu, Fangguo Zhang, and Liehuang Zhu. Practical Asynchronous Distributed Key Generation: Improved Efficiency, Weaker Assumption, and Standard Model. [<a href="https://eprint.iacr.org/2022/1678">eprint</a>]
+- Sisi Duan, Xin Wang<sup>*</sup>, and Haibin Zhang. Practical Signature-Free Asynchronous Common Subset in Constant Time.  [<a href="https://eprint.iacr.org/2023/154">eprint</a>]
+- Haibin Zhang, Sisi Duan, Chao Liu, Boxin Zhao<sup>*</sup>, Xuanji Meng<sup>*</sup>, Shengli Liu, Yong Yu, Fangguo Zhang, and Liehuang Zhu. Practical Asynchronous Distributed Key Generation: Improved Efficiency, Weaker Assumption, and Standard Model. [<a href="https://eprint.iacr.org/2022/1678">eprint</a>]
 - You Zhou, Zongyang Zhang, Haibin Zhang, Sisi Duan, Bin Hu, Licheng Wang, and Jianwei Liu. Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency. [<a href="https://eprint.iacr.org/2022/1709">eprint</a>]
 - Sisi Duan, Haibin Zhang, Xiao Sui<sup>*</sup>, Baohan Huang<sup>*</sup>, Changchun Mu, Gang Di, and Xiaoyun Wang. Byzantine Fault Tolerance from Weak Certificates. [<a href="https://eprint.iacr.org/2022/625">eprint</a>]
 - Xiao Sui<sup>*</sup>, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of BFT Consensus. [<a href="https://eprint.iacr.org/2022/1433">eprint</a>]
-- Sisi Duan, Haibin Zhang, and Boxin Zhao. WaterBear: Asynchronous BFT with Information-Theoretic Security and Quantum Security. [<a href="https://eprint.iacr.org/2022/021">eprint</a>][<a href="https://github.com/fififish/waterbear.git">code</a>]
+- Sisi Duan, Haibin Zhang, and Boxin Zhao<sup>*</sup>. WaterBear: Asynchronous BFT with Information-Theoretic Security and Quantum Security. [<a href="https://eprint.iacr.org/2022/021">eprint</a>][<a href="https://github.com/fififish/waterbear.git">code</a>]
 
 ### Doctoral Dissertation
 - Sisi Duan. Building Reliable and Practical Byzantine Fault Tolerance. Ph.D. Dissertation, Computer Science, University of California, Davis, Dec 2014.  Committee members: Prof. Karl Levitt (chair), Prof. Sean Peisert, and Prof. Matt Bishop. [<a href="files/2014-SisiDuan-dissertation.pdf">PDF</a>]
