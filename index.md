@@ -33,6 +33,7 @@ Dr. Sisi Duan is a Researcher at the <a href="https://www.ias.tsinghua.edu.cn/en
 Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DBLP</a> and <a href="https://scholar.google.com/citations?user=iHMbdVUAAAAJ&hl=en"> Google Scholar</a>. *Students under my supervision.<br>
 
 ### Conference Full Papers
+- [c26] Haibin Zhang, Sisi Duan, Chao Liu, Boxin Zhao<sup>*</sup>, Xuanji Meng<sup>*</sup>, Shengli Liu, Yong Yu, Fangguo Zhang, and Liehuang Zhu. Practical Asynchronous Distributed Key Generation: Improved Efficiency, Weaker Assumption, and Standard Model. DSN 2023. [DOI][<a href="https://eprint.iacr.org/2022/1678">eprint</a>]
 - [c25] Xinrui Zhang, Rujia Li*, Qin Wang, Qi Wang and Sisi Duan. Time-manipulation Attack: Breaking Fairness against Proof of Authority Aura. The Web Conf (WWW) 2023. [DOI][PDF][<a href="https://github.com/auraAttack/Time-manipulation-Attack">code</a>]
 - [c24] Nicolas Alhaddad, Sourav Das, Sisi Duan, Ling Ren, Mayank Varia, Zhuolun Xiang, and Haibin Zhang. Balanced Byzantine Reliable Broadcast with Near-Optimal Communication and Improved Computation. PODC 2022. [<a href="https://dl.acm.org/doi/10.1145/3519270.3538475">DOI</a>][<a href="https://eprint.iacr.org/2022/776">eprint</a>]
 - [c23] Haibin Zhang abd Sisi Duan. PACE: Fully Parallelizable Asynchronous BFT from Reproposable Byzantine Agreement. CCS 2022. [<a href="https://dl.acm.org/doi/10.1145/3548606.3559348">DOI</a>][<a href="https://eprint.iacr.org/2022/020">eprint</a>][<a href="https://github.com/fififish/pace.git">code</a>]
@@ -76,7 +77,6 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 
 ### Manuscripts
 - Sisi Duan, Xin Wang<sup>*</sup>, and Haibin Zhang. Practical Signature-Free Asynchronous Common Subset in Constant Time.  [<a href="https://eprint.iacr.org/2023/154">eprint</a>]
-- Haibin Zhang, Sisi Duan, Chao Liu, Boxin Zhao<sup>*</sup>, Xuanji Meng<sup>*</sup>, Shengli Liu, Yong Yu, Fangguo Zhang, and Liehuang Zhu. Practical Asynchronous Distributed Key Generation: Improved Efficiency, Weaker Assumption, and Standard Model. [<a href="https://eprint.iacr.org/2022/1678">eprint</a>]
 - You Zhou, Zongyang Zhang, Haibin Zhang, Sisi Duan, Bin Hu, Licheng Wang, and Jianwei Liu. Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency. [<a href="https://eprint.iacr.org/2022/1709">eprint</a>]
 - Sisi Duan, Haibin Zhang, Xiao Sui<sup>*</sup>, Baohan Huang<sup>*</sup>, Changchun Mu, Gang Di, and Xiaoyun Wang. Byzantine Fault Tolerance from Weak Certificates. [<a href="https://eprint.iacr.org/2022/625">eprint</a>]
 - Xiao Sui<sup>*</sup>, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of BFT Consensus. [<a href="https://eprint.iacr.org/2022/1433">eprint</a>]
@@ -100,6 +100,12 @@ I have been fortunate to work with some great students.
 - Haochen Wang (Fall 2020 - now)
 - Jim Clavin (UMBC, Summer 2018 - now, advised by Prof. Karuna Joshi now)
 
+#### Master
+- Mingfei Zhang (Fall 2022 - now)
+- Fei Zhou (Fall 2021 - now)
+- Yunqing Bian (Fall 2021 - now)
+- Baohan Huang (Fall 2020 - now)
+
 #### Alumni
 - Xin Wang (UMBC, graduated in 2022, current job: Postdoc at Tsinghua)
 - Chao Liu (UMBC, graduated in 2022, current job: Associate Professor at Quanzhou Normal University)
@@ -107,7 +113,7 @@ I have been fortunate to work with some great students.
 ## Professional Service
 
 #### Conference PC
-- 2023: DSN, ICDCS
+- 2023: DSN, ICDCS, CCS, NDSS
 - 2022: DSN, NCA, CCSW
 - 2021: DSN, NCA
 - 2020: BIOTC, IDC, NCA
