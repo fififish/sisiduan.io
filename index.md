@@ -113,7 +113,7 @@ I have been fortunate to work with some great students.
 ## Professional Service
 
 #### Conference PC
-- 2024: NDSS
+- 2024: NDSS, S&P
 - 2023: DSN, ICDCS, CCS
 - 2022: DSN, NCA, CCSW
 - 2021: DSN, NCA
