@@ -81,6 +81,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - Sisi Duan, Haibin Zhang, Xiao Sui<sup>*</sup>, Baohan Huang<sup>*</sup>, Changchun Mu, Gang Di, and Xiaoyun Wang. Byzantine Fault Tolerance from Weak Certificates. [<a href="https://eprint.iacr.org/2022/625">eprint</a>]
 - Xiao Sui<sup>*</sup>, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of BFT Consensus. [<a href="https://eprint.iacr.org/2022/1433">eprint</a>]
 - Sisi Duan, Haibin Zhang, and Boxin Zhao<sup>*</sup>. WaterBear: Asynchronous BFT with Information-Theoretic Security and Quantum Security. [<a href="https://eprint.iacr.org/2022/021">eprint</a>][<a href="https://github.com/fififish/waterbear.git">code</a>]
+- Nicolas Alhaddad, Sisi Duan, Mayank Varia, and Haibin Zhang. Succinct Erasure Coding Proof Systems. [<a href="https://eprint.iacr.org/2021/1500">eprint</a>]
 
 ### Doctoral Dissertation
 - Sisi Duan. Building Reliable and Practical Byzantine Fault Tolerance. Ph.D. Dissertation, Computer Science, University of California, Davis, Dec 2014.  Committee members: Prof. Karl Levitt (chair), Prof. Sean Peisert, and Prof. Matt Bishop. [<a href="files/2014-SisiDuan-dissertation.pdf">PDF</a>]
