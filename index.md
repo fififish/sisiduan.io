@@ -93,7 +93,7 @@ I have been fortunate to work with some great students.
 
 #### Postdoc
 - <a href="http://rujia.uk/">Rujia Li</a> (Shuimu Scholar, Jan 2023 - now)
-- Xin Wang (Nov 2022 - now)
+- <a href="https://www.linkedin.com/in/xin-wang-440094196/">Xin Wang</a> (Nov 2022 - now)
 
 #### PhD
 - Yue Huang (Fall 2022 - now)
