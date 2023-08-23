@@ -106,17 +106,18 @@ I have been fortunate to work with some great students.
 - Mingfei Zhang (Fall 2022 - now)
 - Fei Zhou (Fall 2021 - now)
 - Yunqing Bian (Fall 2021 - now)
-- Baohan Huang (Fall 2020 - now)
+
 
 #### Alumni
 - Xin Wang (UMBC, graduated in 2022, current job: Postdoc at Tsinghua)
 - Chao Liu (UMBC, graduated in 2022, current job: Associate Professor at Quanzhou Normal University)
+- Baohan Huang (graduated in 2023, current position: PhD at Beijing Institute of Technology)
 
 ## Professional Service
 
 #### Conference PC
 - 2024: NDSS, S&P
-- 2023: DSN, ICDCS, CCS
+- 2023: DSN, ICDCS, CCS, SecureComm, OPODIS, CCSW
 - 2022: DSN, NCA, CCSW
 - 2021: DSN, NCA
 - 2020: BIOTC, IDC, NCA
