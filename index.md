@@ -134,6 +134,7 @@ I have been fortunate to work with some great students.
 - 2013: CSSIIRW
 
 #### Conference Co-Chair and Session Chair
+- 2023: CCS
 - 2018: IDCS, UIC
 
 #### Journal Reviewer
