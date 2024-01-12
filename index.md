@@ -33,6 +33,7 @@ Dr. Sisi Duan is a Researcher at the <a href="https://www.ias.tsinghua.edu.cn/en
 Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DBLP</a> and <a href="https://scholar.google.com/citations?user=iHMbdVUAAAAJ&hl=en"> Google Scholar</a>. *Students under my supervision.<br>
 
 ### Conference Full Papers
+- Sisi Duan, Haibin Zhang, Xiao Sui<sup>*</sup>, Baohan Huang<sup>*</sup>, Changchun Mu, Gang Di, and Xiaoyun Wang. Byzantine Fault Tolerance from Weak Certificates. Eurosys 2024. [<a href="https://eprint.iacr.org/2022/625">eprint</a>][DOI]
 - [c28] Haibin Zhang, Sisi Duan, Boxin Zhao<sup>*</sup>, and Liehuang Zhu. WaterBear: Practical Asynchronous BFT Matching Security Guarantees of Partially Synchronous BFT. Usenix Security 2023. [<a href="https://www.usenix.net/conference/usenixsecurity23/presentation/zhang-haibin">DOI</a>][<a href="https://eprint.iacr.org/2022/021">eprint</a>][<a href="https://github.com/fififish/waterbear.git">code</a>]
 - [c27] Sisi Duan, Xin Wang<sup>*</sup>, and Haibin Zhang. FIN: Practical Signature-Free Asynchronous Common Subset in Constant Time. CCS 2023.  [<a href="https://dl.acm.org/doi/abs/10.1145/3576915.3616633">DOI</a>][<a href="https://eprint.iacr.org/2023/154">eprint</a>]
 - [c26] Haibin Zhang, Sisi Duan, Chao Liu, Boxin Zhao<sup>*</sup>, Xuanji Meng<sup>*</sup>, Shengli Liu, Yong Yu, Fangguo Zhang, and Liehuang Zhu. Practical Asynchronous Distributed Key Generation: Improved Efficiency, Weaker Assumption, and Standard Model. DSN 2023. [<a href="https://ieeexplore.ieee.org/document/10202657/">DOI</a>][<a href="https://eprint.iacr.org/2022/1678">eprint</a>]
@@ -68,7 +69,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [s1] James R. Clavin<sup>*</sup> and Sisi Duan. Demo Abstract: ByzGame, a Visualized and Understandable BFT Consensus. Middleware 2019. [<a href="files/byzgamemiddleware.pdf">PDF</a>][<a href="https://dl.acm.org/citation.cfm?id=3368109">DOI</a>]
 
 ### Journal
-- [j9] Xiao Sui<sup>*</sup>, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of BFT Consensus.  IEEE Transactions on Information Forensics and Security (TIFS), 2023. [<a href="https://eprint.iacr.org/2022/1433">eprint</a>][<a href="https://ieeexplore.ieee.org/document/10262091">DOI</a>]
+- [j9] Xiao Sui<sup>*</sup>, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of BFT Consensus Toward a Unified Theory of BFT Replication.  IEEE Transactions on Information Forensics and Security (TIFS), 2023. [<a href="https://eprint.iacr.org/2022/1433">eprint</a>][<a href="https://ieeexplore.ieee.org/document/10262091">DOI</a>]
 - [j8] Haibin Zhang, Chao Liu<sup>*</sup>, and Sisi Duan. How to Achieve Adaptive Security for Asynchronous BFT? JPDC 2022. [<a href="https://www.sciencedirect.com/science/article/pii/S0743731522001678">DOI</a>]
 - [j7] Sisi Duan and Haibin Zhang. Recent Progress on BFT in the Era of Blockchains. National Science Review, 2022. [<a href="https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwac132/6633702?searchresult=1">DOI</a>]
 - [j6] Xin Wang<sup>*</sup>, Sisi Duan, James R. Clavin<sup>*</sup>, and Haibin Zhang. BFT in Blockchains: From Protocols to Use Cases. ACM Computing Surveys, 2022. (Online: Dec 2021).  [<a href="files/bft-csur22.pdf">PDF</a>][<a href="https://dl.acm.org/doi/abs/10.1145/3503042">DOI</a>]
@@ -85,7 +86,6 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - Rujia Li<sup>*</sup>, Yuanzhao Li, Qin Wang, Sisi Duan, Qi Wang, and Mark Ryan. Accountable Decryption made Formal and Practical. [<a href="https://eprint.iacr.org/2023/1519">eprint</a>]
 - Rujia Li<sup>*</sup>, Xuanwei Hu, Qin Wang, Sisi Duan, and Qi Wang. Transaction Fairness in Blockchains, Revisited. [<a href="https://eprint.iacr.org/2023/1034">eprint</a>]
 - You Zhou, Zongyang Zhang, Haibin Zhang, Sisi Duan, Bin Hu, Licheng Wang, and Jianwei Liu. Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency. [<a href="https://eprint.iacr.org/2022/1709">eprint</a>]
-- Sisi Duan, Haibin Zhang, Xiao Sui<sup>*</sup>, Baohan Huang<sup>*</sup>, Changchun Mu, Gang Di, and Xiaoyun Wang. Byzantine Fault Tolerance from Weak Certificates. [<a href="https://eprint.iacr.org/2022/625">eprint</a>]
 - Nicolas Alhaddad, Sisi Duan, Mayank Varia, and Haibin Zhang. Succinct Erasure Coding Proof Systems. [<a href="https://eprint.iacr.org/2021/1500">eprint</a>]
 
 ### Doctoral Dissertation
