@@ -125,7 +125,7 @@ I have been fortunate to work with some great students.
 ## Professional Service
 
 #### Conference PC
-- 2024: NDSS, S&P, FC, DSN (Disrupt track)
+- 2024: NDSS, S&P, CCS, ICDCS, FC, DSN (Disrupt track)
 - 2023: DSN, ICDCS, CCS, SecureComm, OPODIS, CCSW
 - 2022: DSN, NCA, CCSW
 - 2021: DSN, NCA
