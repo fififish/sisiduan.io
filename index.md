@@ -40,7 +40,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [c25] Xinrui Zhang, Rujia Li*, Qin Wang, Qi Wang and Sisi Duan. Time-manipulation Attack: Breaking Fairness against Proof of Authority Aura. The Web Conf (WWW) 2023. [<a href="https://dl.acm.org/doi/abs/10.1145/3543507.3583252">DOI</a>][<a href="files/time-www23-compressed.pdf">PDF</a>][<a href="https://github.com/auraAttack/Time-manipulation-Attack">code</a>]
 - [c24] Nicolas Alhaddad, Sourav Das, Sisi Duan, Ling Ren, Mayank Varia, Zhuolun Xiang, and Haibin Zhang. Balanced Byzantine Reliable Broadcast with Near-Optimal Communication and Improved Computation. PODC 2022. [<a href="https://dl.acm.org/doi/10.1145/3519270.3538475">DOI</a>][<a href="https://eprint.iacr.org/2022/776">eprint</a>]
 - [c23] Haibin Zhang abd Sisi Duan. PACE: Fully Parallelizable Asynchronous BFT from Reproposable Byzantine Agreement. CCS 2022. [<a href="https://dl.acm.org/doi/10.1145/3548606.3559348">DOI</a>][<a href="https://eprint.iacr.org/2022/020">eprint</a>][<a href="https://github.com/fififish/pace.git">code</a>]
-- [c22] Sisi Duan and Haibin Zhang. Foundations of Dyanmic BFT. S&P (Oakland) 2022. [<a href="https://www.computer.org/csdl/proceedings-article/sp/2022/131600b546/1CIO7StCoZW">DOI</a>][<a href="https://eprint.iacr.org/2022/597">eprint</a>][<a href="https://www.youtube.com/watch?v=hfHl14Q7DaA">teasor</a>][<a href="https://www.youtube.com/watch?v=fXPlGOWhYp0">presentation</a>]
+- [c22] Sisi Duan and Haibin Zhang. Foundations of Dynamic BFT. S&P (Oakland) 2022. [<a href="https://www.computer.org/csdl/proceedings-article/sp/2022/131600b546/1CIO7StCoZW">DOI</a>][<a href="https://eprint.iacr.org/2022/597">eprint</a>][<a href="https://www.youtube.com/watch?v=hfHl14Q7DaA">teasor</a>][<a href="https://www.youtube.com/watch?v=fXPlGOWhYp0">presentation</a>]
 - [c21] Xiao Sui*, Sisi Duan, and Haibin Zhang. Marlin: Two-Phase BFT with Linearity. DSN 2022. [<a href="files/marlin-dsn22.pdf">PDF</a>][<a href="https://ieeexplore.ieee.org/document/9833790">DOI</a>][<a href="https://www.youtube.com/watch?v=c6lLj-604bc">teasor</a>]
 - [c20] James R. Clavin<sup>*</sup>, Yue Huang<sup>*</sup>, Xin Wang<sup>*</sup>, Pradeep M. Prakash<sup>*</sup>, Sisi Duan, Jianwu Wang, and Sean Peisert. A framework for evaluating BFT. ICPADS 2021. [<a href="files/eval-icpads21.pdf">PDF</a>][<a href="https://ieeexplore.ieee.org/abstract/document/9763687/">DOI</a>]
 - [c19] Chao Liu<sup>*</sup>, Sisi Duan, and Haibin Zhang.EPIC: Efficient Asynchronous BFT with Adaptive Security, DSN 2020. [<a href="files/epic-dsn20.pdf">PDF</a>][<a href="https://ieeexplore.ieee.org/abstract/document/9153421">DOI</a>]
@@ -69,7 +69,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [s1] James R. Clavin<sup>*</sup> and Sisi Duan. Demo Abstract: ByzGame, a Visualized and Understandable BFT Consensus. Middleware 2019. [<a href="files/byzgamemiddleware.pdf">PDF</a>][<a href="https://dl.acm.org/citation.cfm?id=3368109">DOI</a>]
 
 ### Journal
-- [j9] Xiao Sui<sup>*</sup>, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of BFT Consensus Toward a Unified Theory of BFT Replication.  IEEE Transactions on Information Forensics and Security (TIFS), 2023. [<a href="https://eprint.iacr.org/2022/1433">eprint</a>][<a href="https://ieeexplore.ieee.org/document/10262091">DOI</a>]
+- [j9] Xiao Sui<sup>*</sup>, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of BFT Consensus Toward a Unified Theory of BFT Replication.  IEEE Transactions on Information Forensics and Security (TIFS), 2023 (online). [<a href="https://eprint.iacr.org/2022/1433">eprint</a>][<a href="https://ieeexplore.ieee.org/document/10262091">DOI</a>]
 - [j8] Haibin Zhang, Chao Liu<sup>*</sup>, and Sisi Duan. How to Achieve Adaptive Security for Asynchronous BFT? JPDC 2022. [<a href="https://www.sciencedirect.com/science/article/pii/S0743731522001678">DOI</a>]
 - [j7] Sisi Duan and Haibin Zhang. Recent Progress on BFT in the Era of Blockchains. National Science Review, 2022. [<a href="https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwac132/6633702?searchresult=1">DOI</a>]
 - [j6] Xin Wang<sup>*</sup>, Sisi Duan, James R. Clavin<sup>*</sup>, and Haibin Zhang. BFT in Blockchains: From Protocols to Use Cases. ACM Computing Surveys, 2022. (Online: Dec 2021).  [<a href="files/bft-csur22.pdf">PDF</a>][<a href="https://dl.acm.org/doi/abs/10.1145/3503042">DOI</a>]
@@ -80,6 +80,8 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [j1] Sisi Duan, Sean Peisert, and Karl Levitt. hBFT: Speculative Byzantine Fault Tolerance with Minimum Cost. IEEE Transaction on Dependable and Secure Computing (TDSC) , 12(1): 58-70, 2015. [<a href="files/tdsc.pdf">PDF</a>][<a href="http://ieeexplore.ieee.org/document/6775264/?arnumber=6775264">DOI</a>] Note: hBFT has potential safety issues, as published <a href="https://arxiv.org/abs/1902.08505">here</a>.
 
 ### Manuscripts
+- Yue Huang<sup>*</sup> and Sisi Duan. Byzantine Fault Tolerance with Non-Determinism, Revisited. [<a href="https://eprint.iacr.org/2024/134">eprint</a>]
+- Chenxu Wang<sup>*</sup>, Sisi Duan, Minghui Xu, Feng Li, and Xiuzhen Cheng. Sleepy Consensus in the Known Participation Model. [<a href="https://eprint.iacr.org/2024/137">eprint</a>]
 - Mingfei Zhang<sup>*</sup>, Rujia Li<sup>*</sup>, and Sisi Duan. Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum PoS. [<a href="https://eprint.iacr.org/2023/1622">eprint</a>]
 - Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang. FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts [<a href="https://arxiv.org/abs/2311.05608">arxiv</a>]
 - Xiao Sui<sup>*</sup> and Sisi Duan. Signature-Free Atomic Broadcast with Optimal $O(n^2)$ Messages and $O(1)$ Expected Time. [<a href="https://eprint.iacr.org/2023/1549">eprint</a>]
@@ -112,7 +114,9 @@ I have been fortunate to work with some great students.
 - Fei Zhou (Fall 2021 - now)
 - Yunqing Bian (Fall 2021 - now)
 
-
+#### Visitors
+- Chenxu Wang (Apr-Sep 2023)
+  
 #### Alumni
 - Xin Wang (UMBC, graduated in 2022, current job: Postdoc at Tsinghua)
 - Chao Liu (UMBC, graduated in 2022, current job: Associate Professor at Quanzhou Normal University)
