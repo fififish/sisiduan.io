@@ -33,6 +33,8 @@ Dr. Sisi Duan is a Researcher at the <a href="https://www.ias.tsinghua.edu.cn/en
 Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DBLP</a> and <a href="https://scholar.google.com/citations?user=iHMbdVUAAAAJ&hl=en"> Google Scholar</a>. *Students under my supervision.<br>
 
 ### Conference Full Papers
+- [c31] Mingfei Zhang<sup>*</sup>, Rujia Li<sup>*</sup>, and Sisi Duan. Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum PoS. Usenix Security 2024. [DOI][<a href="https://eprint.iacr.org/2023/1622">eprint</a>]
+- [c30] Qichang Liu, Xufeng Zhang, Sisi Duan, and Haibin Zhang. Enhancing Permissioned Blockchains with Controlled Data Authorization. ACISP 2024. [DOI]
 - [c29] Sisi Duan, Haibin Zhang, Xiao Sui<sup>*</sup>, Baohan Huang<sup>*</sup>, Changchun Mu, Gang Di, and Xiaoyun Wang. Byzantine Fault Tolerance from Weak Certificates. Eurosys 2024. [<a href="https://eprint.iacr.org/2022/625">eprint</a>][DOI]
 - [c28] Haibin Zhang, Sisi Duan, Boxin Zhao<sup>*</sup>, and Liehuang Zhu. WaterBear: Practical Asynchronous BFT Matching Security Guarantees of Partially Synchronous BFT. Usenix Security 2023. [<a href="https://www.usenix.net/conference/usenixsecurity23/presentation/zhang-haibin">DOI</a>][<a href="https://eprint.iacr.org/2022/021">eprint</a>][<a href="https://github.com/fififish/waterbear.git">code</a>]
 - [c27] Sisi Duan, Xin Wang<sup>*</sup>, and Haibin Zhang. FIN: Practical Signature-Free Asynchronous Common Subset in Constant Time. CCS 2023.  [<a href="https://dl.acm.org/doi/abs/10.1145/3576915.3616633">DOI</a>][<a href="https://eprint.iacr.org/2023/154">eprint</a>]
@@ -82,7 +84,6 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 ### Manuscripts
 - Yue Huang<sup>*</sup> and Sisi Duan. Byzantine Fault Tolerance with Non-Determinism, Revisited. [<a href="https://eprint.iacr.org/2024/134">eprint</a>]
 - Chenxu Wang<sup>*</sup>, Sisi Duan, Minghui Xu, Feng Li, and Xiuzhen Cheng. Sleepy Consensus in the Known Participation Model. [<a href="https://eprint.iacr.org/2024/137">eprint</a>]
-- Mingfei Zhang<sup>*</sup>, Rujia Li<sup>*</sup>, and Sisi Duan. Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum PoS. [<a href="https://eprint.iacr.org/2023/1622">eprint</a>]
 - Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang. FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts [<a href="https://arxiv.org/abs/2311.05608">arxiv</a>]
 - Xiao Sui<sup>*</sup> and Sisi Duan. Signature-Free Atomic Broadcast with Optimal $O(n^2)$ Messages and $O(1)$ Expected Time. [<a href="https://eprint.iacr.org/2023/1549">eprint</a>]
 - Rujia Li<sup>*</sup>, Yuanzhao Li, Qin Wang, Sisi Duan, Qi Wang, and Mark Ryan. Accountable Decryption made Formal and Practical. [<a href="https://eprint.iacr.org/2023/1519">eprint</a>]
@@ -125,7 +126,7 @@ I have been fortunate to work with some great students.
 ## Professional Service
 
 #### Conference PC
-- 2024: NDSS, S&P, CCS, ICDCS, FC, DSN (Disrupt track)
+- 2024: NDSS, S&P, CCS, ICDCS, FC, DSN (Disrupt track), IJTCS-FAW
 - 2023: DSN, ICDCS, CCS, SecureComm, OPODIS, CCSW
 - 2022: DSN, NCA, CCSW
 - 2021: DSN, NCA
