@@ -33,6 +33,8 @@ Dr. Sisi Duan is a Researcher at the <a href="https://www.ias.tsinghua.edu.cn/en
 Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DBLP</a> and <a href="https://scholar.google.com/citations?user=iHMbdVUAAAAJ&hl=en"> Google Scholar</a>. *Students under my supervision.<br>
 
 ### Conference Full Papers
+- [c33] Chenglu Jin, Chao Yin, Marten van Dijk, Sisi Duan, Fabio Massacci, Michael K. Reiter, and Haibin Zhang. PG: Byzantine Fault-Tolerant and Privacy-Preserving Sensor Fusion with Guaranteed Output Delivery. CCS 2024. [DOI]
+- [c32] Sourav Das, Sisi Duan, Shengqi Liu, Atsuki Momose, Ling Ren, and Victor Shoup. Asynchronous Consensus without Trusted Setup or Public-Key Cryptography. CCS 2024. [DOI]
 - [c31] Mingfei Zhang<sup>*</sup>, Rujia Li<sup>*</sup>, and Sisi Duan. Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum PoS. Usenix Security 2024. [DOI][<a href="https://eprint.iacr.org/2023/1622">eprint</a>]
 - [c30] Qichang Liu, Xufeng Zhang, Sisi Duan, and Haibin Zhang. Enhancing Permissioned Blockchains with Controlled Data Authorization. ACISP 2024. [DOI]
 - [c29] Sisi Duan, Haibin Zhang, Xiao Sui<sup>*</sup>, Baohan Huang<sup>*</sup>, Changchun Mu, Gang Di, and Xiaoyun Wang. Dashing and Star: Byzantine Fault Tolerance from Weak Certificates. Eurosys 2024. [<a href="https://dl.acm.org/doi/abs/10.1145/3627703.3650073">DOI</a>][<a href="https://eprint.iacr.org/2022/625">eprint</a>] <font color="#26A0F4"> Used in the production system of the <a href="https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm">mBridge</a> project. </font>
@@ -71,6 +73,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [s1] James R. Clavin<sup>*</sup> and Sisi Duan. Demo Abstract: ByzGame, a Visualized and Understandable BFT Consensus. Middleware 2019. [<a href="files/byzgamemiddleware.pdf">PDF</a>][<a href="https://dl.acm.org/citation.cfm?id=3368109">DOI</a>]
 
 ### Journal
+- [j10] Yunqing Bian<sup>*</sup>, Xin Wang<sup>*</sup>, Jian Jin, Zhenzhen Jiao, and Sisi Duan. Flexible and Scalable Decentralized Identity Management for Industrial Internet of Things. IEEE Internet of Things Journal, to appear. 
 - [j9] Xiao Sui<sup>*</sup>, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of BFT Consensus Toward a Unified Theory of BFT Replication.  IEEE Transactions on Information Forensics and Security (TIFS), 2023 (online). [<a href="https://eprint.iacr.org/2022/1433">eprint</a>][<a href="https://ieeexplore.ieee.org/document/10262091">DOI</a>]
 - [j8] Haibin Zhang, Chao Liu<sup>*</sup>, and Sisi Duan. How to Achieve Adaptive Security for Asynchronous BFT? JPDC 2022. [<a href="https://www.sciencedirect.com/science/article/pii/S0743731522001678">DOI</a>]
 - [j7] Sisi Duan and Haibin Zhang. Recent Progress on BFT in the Era of Blockchains. National Science Review, 2022. [<a href="https://academic.oup.com/nsr/advance-article/doi/10.1093/nsr/nwac132/6633702?searchresult=1">DOI</a>]
@@ -82,6 +85,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [j1] Sisi Duan, Sean Peisert, and Karl Levitt. hBFT: Speculative Byzantine Fault Tolerance with Minimum Cost. IEEE Transaction on Dependable and Secure Computing (TDSC) , 12(1): 58-70, 2015. [<a href="files/tdsc.pdf">PDF</a>][<a href="http://ieeexplore.ieee.org/document/6775264/?arnumber=6775264">DOI</a>] Note: hBFT has potential safety issues, as published <a href="https://arxiv.org/abs/1902.08505">here</a>.
 
 ### Manuscripts
+- Xin Wang<sup>*</sup>, Haochen Wang<sup>*</sup>, Haibin Zhang, and Sisi Duan. Pando: Extremely Scalable BFT Based on Committee Sampling. [<a href="https://eprint.iacr.org/2024/664">eprint</a>]
 - Xuanji Meng<sup>*</sup>, Xiao Sui<sup>*</sup>, Zhaoxin Yang<sup>*</sup>, Kang Rong, Wenbo Xu, Shenglong Chen, Ying Yan, Sisi Duan. Rondo: Scalable and Reconfiguration-Friendly Randomness Beacon. [<a href="https://eprint.iacr.org/2024/641">eprint</a>]
 - Yue Huang<sup>*</sup> and Sisi Duan. Byzantine Fault Tolerance with Non-Determinism, Revisited. [<a href="https://eprint.iacr.org/2024/134">eprint</a>]
 - Chenxu Wang<sup>*</sup>, Sisi Duan, Minghui Xu, Feng Li, and Xiuzhen Cheng. Sleepy Consensus in the Known Participation Model. [<a href="https://eprint.iacr.org/2024/137">eprint</a>]
