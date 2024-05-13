@@ -34,7 +34,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 
 ### Conference Full Papers
 - [c33] Chenglu Jin, Chao Yin, Marten van Dijk, Sisi Duan, Fabio Massacci, Michael K. Reiter, and Haibin Zhang. PG: Byzantine Fault-Tolerant and Privacy-Preserving Sensor Fusion with Guaranteed Output Delivery. CCS 2024. [DOI]
-- [c32] Sourav Das, Sisi Duan, Shengqi Liu, Atsuki Momose, Ling Ren, and Victor Shoup. Asynchronous Consensus without Trusted Setup or Public-Key Cryptography. CCS 2024. [DOI]
+- [c32] Sourav Das, Sisi Duan, Shengqi Liu, Atsuki Momose, Ling Ren, and Victor Shoup. Asynchronous Consensus without Trusted Setup or Public-Key Cryptography. CCS 2024. [DOI][<a href="https://eprint.iacr.org/2024/677">eprint</a>][<a href="https://eprint.iacr.org/2024/696">a theoretical take</a>]
 - [c31] Mingfei Zhang<sup>*</sup>, Rujia Li<sup>*</sup>, and Sisi Duan. Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum PoS. Usenix Security 2024. [DOI][<a href="https://eprint.iacr.org/2023/1622">eprint</a>]
 - [c30] Qichang Liu<sup>*</sup>, Xufeng Zhang, Sisi Duan, and Haibin Zhang. Enhancing Permissioned Blockchains with Controlled Data Authorization. ACISP 2024. [DOI]
 - [c29] Sisi Duan, Haibin Zhang, Xiao Sui<sup>*</sup>, Baohan Huang<sup>*</sup>, Changchun Mu, Gang Di, and Xiaoyun Wang. Dashing and Star: Byzantine Fault Tolerance from Weak Certificates. Eurosys 2024. [<a href="https://dl.acm.org/doi/abs/10.1145/3627703.3650073">DOI</a>][<a href="https://eprint.iacr.org/2022/625">eprint</a>] <font color="#26A0F4"> Used in the production system of the <a href="https://www.bis.org/about/bisih/topics/cbdc/mcbdc_bridge.htm">mBridge</a> project. </font>
