@@ -6,7 +6,7 @@
   </div>
   <div class="col-md-4">
     Research Scientist, PhD Advisor<br>
-    <a href="https://www.ias.tsinghua.edu.cn/">Instititue for Advanced Study</a><br>
+    <a href="https://www.ias.tsinghua.edu.cn/">Institute for Advanced Study</a><br>
     <a href="https://www.tsinghua.edu.cn/en/">Tsinghua University</a> <br>
     Email: duansisi AT tsinghua.edu.cn<br>
   </div>
