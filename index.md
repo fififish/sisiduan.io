@@ -85,6 +85,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [j1] Sisi Duan, Sean Peisert, and Karl Levitt. hBFT: Speculative Byzantine Fault Tolerance with Minimum Cost. IEEE Transaction on Dependable and Secure Computing (TDSC) , 12(1): 58-70, 2015. [<a href="files/tdsc.pdf">PDF</a>][<a href="http://ieeexplore.ieee.org/document/6775264/?arnumber=6775264">DOI</a>] Note: hBFT has potential safety issues, as published <a href="https://arxiv.org/abs/1902.08505">here</a>.
 
 ### Manuscripts
+- Daniel Collins, Sisi Duan, Julian Loss, Charalampos Papamanthou, Giorgos Tsimos, and Haochen Wang<sup>*</sup>. Towards Optimal Parallel Broadcast under a Dishonest Majority. [<a href="https://eprint.iacr.org/2024/974">eprint</a>]
 - Xin Wang<sup>*</sup>, Haochen Wang<sup>*</sup>, Haibin Zhang, and Sisi Duan. Pando: Extremely Scalable BFT Based on Committee Sampling. [<a href="https://eprint.iacr.org/2024/664">eprint</a>]
 - Xuanji Meng<sup>*</sup>, Xiao Sui<sup>*</sup>, Zhaoxin Yang<sup>*</sup>, Kang Rong, Wenbo Xu, Shenglong Chen, Ying Yan, Sisi Duan. Rondo: Scalable and Reconfiguration-Friendly Randomness Beacon. [<a href="https://eprint.iacr.org/2024/641">eprint</a>]
 - Yue Huang<sup>*</sup> and Sisi Duan. Byzantine Fault Tolerance with Non-Determinism, Revisited. [<a href="https://eprint.iacr.org/2024/134">eprint</a>]
