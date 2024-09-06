@@ -33,6 +33,7 @@ Dr. Sisi Duan is a Researcher at the <a href="https://www.ias.tsinghua.edu.cn/en
 Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DBLP</a> and <a href="https://scholar.google.com/citations?user=iHMbdVUAAAAJ&hl=en"> Google Scholar</a>. *Students under my supervision.<br>
 
 ### Conference Full Papers
+- [c34] Xuanji Meng<sup>*</sup>, Xiao Sui<sup>*</sup>, Zhaoxin Yang<sup>*</sup>, Kang Rong, Wenbo Xu, Shenglong Chen, Ying Yan, Sisi Duan. Rondo: Scalable and Reconfiguration-Friendly Randomness Beacon. NDSS 2025. [DOI][<a href="https://eprint.iacr.org/2024/641">eprint</a>]
 - [c33] Chenglu Jin, Chao Yin, Marten van Dijk, Sisi Duan, Fabio Massacci, Michael K. Reiter, and Haibin Zhang. PG: Byzantine Fault-Tolerant and Privacy-Preserving Sensor Fusion with Guaranteed Output Delivery. CCS 2024. [DOI]
 - [c32] Sourav Das, Sisi Duan, Shengqi Liu, Atsuki Momose, Ling Ren, and Victor Shoup. Asynchronous Consensus without Trusted Setup or Public-Key Cryptography. CCS 2024. [DOI][<a href="https://eprint.iacr.org/2024/677">eprint</a>][<a href="https://eprint.iacr.org/2024/696">a theoretical take</a>]
 - [c31] Mingfei Zhang<sup>*</sup>, Rujia Li<sup>*</sup>, and Sisi Duan. Max Attestation Matters: Making Honest Parties Lose Their Incentives in Ethereum PoS. Usenix Security 2024. [<a href="https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-mingfei">DOI</a>][<a href="https://eprint.iacr.org/2023/1622">eprint</a>]
@@ -87,7 +88,6 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 ### Manuscripts
 - Daniel Collins, Sisi Duan, Julian Loss, Charalampos Papamanthou, Giorgos Tsimos, and Haochen Wang<sup>*</sup>. Towards Optimal Parallel Broadcast under a Dishonest Majority. [<a href="https://eprint.iacr.org/2024/974">eprint</a>]
 - Xin Wang<sup>*</sup>, Haochen Wang<sup>*</sup>, Haibin Zhang, and Sisi Duan. Pando: Extremely Scalable BFT Based on Committee Sampling. [<a href="https://eprint.iacr.org/2024/664">eprint</a>]
-- Xuanji Meng<sup>*</sup>, Xiao Sui<sup>*</sup>, Zhaoxin Yang<sup>*</sup>, Kang Rong, Wenbo Xu, Shenglong Chen, Ying Yan, Sisi Duan. Rondo: Scalable and Reconfiguration-Friendly Randomness Beacon. [<a href="https://eprint.iacr.org/2024/641">eprint</a>]
 - Yue Huang<sup>*</sup> and Sisi Duan. Byzantine Fault Tolerance with Non-Determinism, Revisited. [<a href="https://eprint.iacr.org/2024/134">eprint</a>]
 - Chenxu Wang<sup>*</sup>, Sisi Duan, Minghui Xu, Feng Li, and Xiuzhen Cheng. Sleepy Consensus in the Known Participation Model. [<a href="https://eprint.iacr.org/2024/137">eprint</a>]
 - Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang. FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts [<a href="https://arxiv.org/abs/2311.05608">arxiv</a>]
@@ -110,16 +110,16 @@ I have been fortunate to work with some great students.
 - Zhaoxin Yang (Oct 2023 - now)
 
 #### PhD
+- Xinyu Lei (Fall 2024 - now)
+- Mingfei Zhang (Fall 2022 - now)
 - Yue Huang (Fall 2022 - now)
 - Xuanji Meng (Fall 2021 - now)
-- Xiao Sui (Fall 2021 - now) 
 - Haochen Wang (Fall 2020 - now)
 - Jim Clavin (UMBC, Summer 2018 - now, advised by Prof. Karuna Joshi now)
 
 #### Master
-- Mingfei Zhang (Fall 2022 - now)
 - Fei Zhou (Fall 2021 - now)
-- Yunqing Bian (Fall 2021 - now)
+
 
 #### Undergraduate Students
 - Qichang Liu
@@ -128,14 +128,16 @@ I have been fortunate to work with some great students.
 - Chenxu Wang (Apr-Sep 2023)
   
 #### Alumni
-- Xin Wang (UMBC, graduated in 2022, current job: Postdoc at Tsinghua)
-- Chao Liu (UMBC, graduated in 2022, current job: Associate Professor at Quanzhou Normal University)
-- Baohan Huang (graduated in 2023, current position: PhD at Beijing Institute of Technology)
-
+- Xin Wang (PhD, UMBC, graduated in 2022, current job: Postdoc/Shuimu at Tsinghua)
+- Chao Liu (PhD, UMBC, graduated in 2022, current job: Associate Professor at Quanzhou Normal University)
+- Baohan Huang (PhD, graduated in 2023, current position: PhD at Beijing Institute of Technology)
+- Xiao Sui (PhD, graduated in 2024, current position: Postdoc/Shuimu scholar at Tsinghua)
+- Yunqing Bian (Master, graduated in 2024)
+    
 ## Professional Service
 
 #### Conference PC
-- 2025: NDSS
+- 2025: NDSS, CCS, S&P, DSN, FC
 - 2024: NDSS, S&P, CCS, ICDCS, FC, DSN (Disrupt track), IJTCS-FAW
 - 2023: DSN, ICDCS, CCS, SecureComm, OPODIS, CCSW
 - 2022: DSN, NCA, CCSW
