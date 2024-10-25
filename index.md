@@ -17,6 +17,7 @@ Dr. Sisi Duan is a Researcher at the <a href="https://www.ias.tsinghua.edu.cn/en
 
 
 ## Awards and Honors
+- InTech Award (InTech科技奖) by the AntGroup, 2024. 
 - Tsinghua Young Scholar Research Award (学术新人奖), 2021.
 - 35 Innovators under 35 (TR35) China by MIT Technology Review, 2021.
 - Named as one of the Maryland's cyber warrior women, 2019. 
@@ -126,7 +127,7 @@ I have been fortunate to work with some great students.
 - Qichang Liu
   
 #### Visitors
-- Chenxu Wang (Apr-Sep 2023)
+- Chenxu Wang (Apr-Sep 2023, May-Oct 2024)
   
 #### Alumni
 - Xin Wang (PhD, UMBC, graduated in 2022, current job: Postdoc/Shuimu at Tsinghua)
