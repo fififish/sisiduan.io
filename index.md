@@ -74,6 +74,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [s1] James R. Clavin<sup>*</sup> and Sisi Duan. Demo Abstract: ByzGame, a Visualized and Understandable BFT Consensus. Middleware 2019. [<a href="files/byzgamemiddleware.pdf">PDF</a>][<a href="https://dl.acm.org/citation.cfm?id=3368109">DOI</a>]
 
 ### Journal
+- [j11] Rujia Li<sup>*</sup>, Qin Wang, Yuanzhao Li, Sisi Duan, Qi Wang, and David Galindo. Bringing Smart Contract Confidentiality via Trusted Hardware: Fact and Fiction. IEEE Transactions on Information Forensics and Security (TIFS), 2024 (online). [<a href="https://ieeexplore.ieee.org/abstract/document/10723772">DOI</a>]
 - [j10] Yunqing Bian<sup>*</sup>, Xin Wang<sup>*</sup>, Jian Jin, Zhenzhen Jiao, and Sisi Duan. Flexible and Scalable Decentralized Identity Management for Industrial Internet of Things. IEEE Internet of Things Journal, 2024. [<a href="https://ieeexplore.ieee.org/document/10557564">DOI</a>] 
 - [j9] Xiao Sui<sup>*</sup>, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of BFT Consensus Toward a Unified Theory of BFT Replication.  IEEE Transactions on Information Forensics and Security (TIFS), 2023. [<a href="https://eprint.iacr.org/2022/1433">eprint</a>][<a href="https://ieeexplore.ieee.org/document/10262091">DOI</a>]
 - [j8] Haibin Zhang, Chao Liu<sup>*</sup>, and Sisi Duan. How to Achieve Adaptive Security for Asynchronous BFT? JPDC 2022. [<a href="https://www.sciencedirect.com/science/article/pii/S0743731522001678">DOI</a>]
@@ -137,7 +138,7 @@ I have been fortunate to work with some great students.
 ## Professional Service
 
 #### Conference PC
-- 2025: NDSS, CCS, S&P, DSN, FC
+- 2025: NDSS, CCS (track chcair), S&P, DSN, FC, ICDCS
 - 2024: NDSS, S&P, CCS, ICDCS, FC, DSN (Disrupt track), IJTCS-FAW
 - 2023: DSN, ICDCS, CCS, SecureComm, OPODIS, CCSW
 - 2022: DSN, NCA, CCSW
@@ -151,7 +152,7 @@ I have been fortunate to work with some great students.
 - 2013: CSSIIRW
 
 #### Conference Co-Chair and Session Chair
-- 2025: CCS (blockchain track chair)
+- 2025: CCS (blockchain and distributed systems track chair)
 - 2023: CCS (session chair)
 - 2018: IDCS (co-chair), UIC (co-chair)
 
