@@ -75,6 +75,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [s1] James R. Clavin<sup>*</sup> and Sisi Duan. Demo Abstract: ByzGame, a Visualized and Understandable BFT Consensus. Middleware 2019. [<a href="files/byzgamemiddleware.pdf">PDF</a>][<a href="https://dl.acm.org/citation.cfm?id=3368109">DOI</a>]
 
 ### Journal
+- [j12] Rujia Li<sup>*</sup>, Yuanzhao Li, Qin Wang, Sisi Duan, Qi Wang, and Mark Ryan. Accountable Decryption made Formal and Practical. IEEE Transactions on Information Forensics and Security (TIFS), to appear. [<a href="https://eprint.iacr.org/2023/1519">eprint</a>]
 - [j11] Rujia Li<sup>*</sup>, Qin Wang, Yuanzhao Li, Sisi Duan, Qi Wang, and David Galindo. Bringing Smart Contract Confidentiality via Trusted Hardware: Fact and Fiction. IEEE Transactions on Information Forensics and Security (TIFS), 2024 (online). [<a href="https://ieeexplore.ieee.org/abstract/document/10723772">DOI</a>]
 - [j10] Yunqing Bian<sup>*</sup>, Xin Wang<sup>*</sup>, Jian Jin, Zhenzhen Jiao, and Sisi Duan. Flexible and Scalable Decentralized Identity Management for Industrial Internet of Things. IEEE Internet of Things Journal, 2024. [<a href="https://ieeexplore.ieee.org/document/10557564">DOI</a>] 
 - [j9] Xiao Sui<sup>*</sup>, Sisi Duan, and Haibin Zhang. BG: A Modular Treatment of BFT Consensus Toward a Unified Theory of BFT Replication.  IEEE Transactions on Information Forensics and Security (TIFS), 2023. [<a href="https://eprint.iacr.org/2022/1433">eprint</a>][<a href="https://ieeexplore.ieee.org/document/10262091">DOI</a>]
@@ -94,7 +95,6 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - Chenxu Wang<sup>*</sup>, Sisi Duan, Minghui Xu, Feng Li, and Xiuzhen Cheng. Sleepy Consensus in the Known Participation Model. [<a href="https://eprint.iacr.org/2024/137">eprint</a>]
 - Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang. FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts [<a href="https://arxiv.org/abs/2311.05608">arxiv</a>]
 - Xiao Sui<sup>*</sup>, Xin Wang<sup>*</sup>, and Sisi Duan. Signature-Free Atomic Broadcast with Optimal $O(n^2)$ Messages and $O(1)$ Expected Time. [<a href="https://eprint.iacr.org/2023/1549">eprint</a>]
-- Rujia Li<sup>*</sup>, Yuanzhao Li, Qin Wang, Sisi Duan, Qi Wang, and Mark Ryan. Accountable Decryption made Formal and Practical. [<a href="https://eprint.iacr.org/2023/1519">eprint</a>]
 - Rujia Li<sup>*</sup>, Xuanwei Hu, Qin Wang, Sisi Duan, and Qi Wang. Transaction Fairness in Blockchains, Revisited. [<a href="https://eprint.iacr.org/2023/1034">eprint</a>]
 - You Zhou, Zongyang Zhang, Haibin Zhang, Sisi Duan, Bin Hu, Licheng Wang, and Jianwei Liu. Dory: Asynchronous BFT with Reduced Communication and Improved Efficiency. [<a href="https://eprint.iacr.org/2022/1709">eprint</a>]
 - Nicolas Alhaddad, Sisi Duan, Mayank Varia, and Haibin Zhang. Succinct Erasure Coding Proof Systems. [<a href="https://eprint.iacr.org/2021/1500">eprint</a>]
