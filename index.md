@@ -17,7 +17,8 @@ Dr. Sisi Duan is a Researcher at the <a href="https://www.ias.tsinghua.edu.cn/en
 
 
 ## Awards and Honors
-- InTech Award (InTech科技奖) by the AntGroup, 2024. 
+- InTech Award (InTech科技奖) by the AntGroup, 2024.
+- WeBank Scholar (微众学者) by WeBank, 2024. 
 - Tsinghua Young Scholar Research Award (学术新人奖), 2021.
 - 35 Innovators under 35 (TR35) China by MIT Technology Review, 2021.
 - Named as one of the Maryland's cyber warrior women, 2019. 
@@ -75,6 +76,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [s1] James R. Clavin<sup>*</sup> and Sisi Duan. Demo Abstract: ByzGame, a Visualized and Understandable BFT Consensus. Middleware 2019. [<a href="files/byzgamemiddleware.pdf">PDF</a>][<a href="https://dl.acm.org/citation.cfm?id=3368109">DOI</a>]
 
 ### Journal
+- [j13] Yue Huang<sup>*</sup>, Huizhong Li, Yi Sun, and Sisi Duan. Byzantine Fault Tolerance with Non-Determinism, Revisited. IEEE Transactions on Information Forensics and Security (TIFS), to appear. [<a href="https://eprint.iacr.org/2024/134">eprint</a>]
 - [j12] Rujia Li<sup>*</sup>, Yuanzhao Li, Qin Wang, Sisi Duan, Qi Wang, and Mark Ryan. Accountable Decryption made Formal and Practical. IEEE Transactions on Information Forensics and Security (TIFS), to appear. [<a href="https://eprint.iacr.org/2023/1519">eprint</a>]
 - [j11] Rujia Li<sup>*</sup>, Qin Wang, Yuanzhao Li, Sisi Duan, Qi Wang, and David Galindo. Bringing Smart Contract Confidentiality via Trusted Hardware: Fact and Fiction. IEEE Transactions on Information Forensics and Security (TIFS), 2024 (online). [<a href="https://ieeexplore.ieee.org/abstract/document/10723772">DOI</a>]
 - [j10] Yunqing Bian<sup>*</sup>, Xin Wang<sup>*</sup>, Jian Jin, Zhenzhen Jiao, and Sisi Duan. Flexible and Scalable Decentralized Identity Management for Industrial Internet of Things. IEEE Internet of Things Journal, 2024. [<a href="https://ieeexplore.ieee.org/document/10557564">DOI</a>] 
@@ -91,7 +93,6 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 ### Manuscripts
 - Daniel Collins, Sisi Duan, Julian Loss, Charalampos Papamanthou, Giorgos Tsimos, and Haochen Wang<sup>*</sup>. Towards Optimal Parallel Broadcast under a Dishonest Majority. [<a href="https://eprint.iacr.org/2024/974">eprint</a>]
 - Xin Wang<sup>*</sup>, Haochen Wang<sup>*</sup>, Haibin Zhang, and Sisi Duan. Pando: Extremely Scalable BFT Based on Committee Sampling. [<a href="https://eprint.iacr.org/2024/664">eprint</a>]
-- Yue Huang<sup>*</sup>, Huizhong Li, Yi Sun, and Sisi Duan. Byzantine Fault Tolerance with Non-Determinism, Revisited. [<a href="https://eprint.iacr.org/2024/134">eprint</a>]
 - Chenxu Wang<sup>*</sup>, Sisi Duan, Minghui Xu, Feng Li, and Xiuzhen Cheng. Sleepy Consensus in the Known Participation Model. [<a href="https://eprint.iacr.org/2024/137">eprint</a>]
 - Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang. FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts [<a href="https://arxiv.org/abs/2311.05608">arxiv</a>]
 - Xiao Sui<sup>*</sup>, Xin Wang<sup>*</sup>, and Sisi Duan. Signature-Free Atomic Broadcast with Optimal $O(n^2)$ Messages and $O(1)$ Expected Time. [<a href="https://eprint.iacr.org/2023/1549">eprint</a>]
@@ -117,7 +118,6 @@ I have been fortunate to work with some great students.
 - Yue Huang (Fall 2022 - now)
 - Xuanji Meng (Fall 2021 - now)
 - Haochen Wang (Fall 2020 - now)
-- Jim Clavin (UMBC, Summer 2018 - now, advised by Prof. Karuna Joshi now)
 
 #### Master
 - Fei Zhou (Fall 2021 - now)
@@ -130,13 +130,19 @@ I have been fortunate to work with some great students.
 - Chenxu Wang (Apr-Sep 2023, May-Oct 2024)
   
 #### Alumni
-- Xin Wang (PhD, UMBC, graduated in 2022, current job: Postdoc/Shuimu at Tsinghua)
+- Xin Wang (PhD, UMBC, graduated in 2022, current job: Postdoc/Shuimu at Tsinghua University)
 - Chao Liu (PhD, UMBC, graduated in 2022, current job: Associate Professor at Quanzhou Normal University)
 - Baohan Huang (PhD, graduated in 2023, current position: PhD at Beijing Institute of Technology)
-- Xiao Sui (PhD, graduated in 2024, current position: Postdoc/Shuimu scholar at Tsinghua)
+- Xiao Sui (PhD, graduated in 2024, current position: Postdoc/Shuimu scholar at Tsinghua, University)
 - Yunqing Bian (Master, graduated in 2024)
+- Jim Clavin (PhD, UMBC, graduated in 2024, co-advised with Prof. Karuna Joshi, current job: CTO of Hilltop Institute, MD, USA)
     
 ## Professional Service
+
+#### Conference Co-Chair and Session Chair
+- 2025: CCS (blockchain and distributed systems track chair)
+- 2023: CCS (session chair)
+- 2018: IDCS (co-chair), UIC (co-chair)
 
 #### Conference PC
 - 2025: NDSS, CCS (track chcair), S&P, DSN, FC, ICDCS
@@ -151,11 +157,6 @@ I have been fortunate to work with some great students.
 - 2016: CISRC
 - 2015: CISRC
 - 2013: CSSIIRW
-
-#### Conference Co-Chair and Session Chair
-- 2025: CCS (blockchain and distributed systems track chair)
-- 2023: CCS (session chair)
-- 2018: IDCS (co-chair), UIC (co-chair)
 
 #### Journal Reviewer
 - Elsevier Pervasive and Mobile Computing
