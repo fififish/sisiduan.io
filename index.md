@@ -121,7 +121,7 @@ I have been fortunate to work with some great students.
 - Haochen Wang (Fall 2020 - now)
 
 #### Master
-- Fei Zhou (Fall 2021 - now)
+- Shuhe Cao (Fall 2024 - now)
 
 
 #### Undergraduate Students
