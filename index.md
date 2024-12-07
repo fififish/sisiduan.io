@@ -35,6 +35,7 @@ Dr. Sisi Duan is a Researcher at the <a href="https://www.ias.tsinghua.edu.cn/en
 Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DBLP</a> and <a href="https://scholar.google.com/citations?user=iHMbdVUAAAAJ&hl=en"> Google Scholar</a>. *Students under my supervision.<br>
 
 ### Conference Full Papers
+- [c35] Daniel Collins, Sisi Duan, Julian Loss, Charalampos Papamanthou, Giorgos Tsimos, and Haochen Wang<sup>*</sup>. Towards Optimal Parallel Broadcast under a Dishonest Majority. FC 2025. [<a href="https://eprint.iacr.org/2024/974">eprint</a>]
 - [c34] Xuanji Meng<sup>*</sup>, Xiao Sui<sup>*</sup>, Zhaoxin Yang<sup>*</sup>, Kang Rong, Wenbo Xu, Shenglong Chen, Ying Yan, Sisi Duan. Rondo: Scalable and Reconfiguration-Friendly Randomness Beacon. NDSS 2025. [DOI][<a href="https://eprint.iacr.org/2024/641">eprint</a>]
 - [c33] Chenglu Jin, Chao Yin, Marten van Dijk, Sisi Duan, Fabio Massacci, Michael K. Reiter, and Haibin Zhang. PG: Byzantine Fault-Tolerant and Privacy-Preserving Sensor Fusion with Guaranteed Output Delivery. CCS 2024. [DOI]
 - [c32] Sourav Das, Sisi Duan, Shengqi Liu, Atsuki Momose, Ling Ren, and Victor Shoup. Asynchronous Consensus without Trusted Setup or Public-Key Cryptography. CCS 2024. [DOI][<a href="https://eprint.iacr.org/2024/677">eprint</a>][<a href="https://eprint.iacr.org/2024/696">a theoretical take</a>]
@@ -91,7 +92,6 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [j1] Sisi Duan, Sean Peisert, and Karl Levitt. hBFT: Speculative Byzantine Fault Tolerance with Minimum Cost. IEEE Transaction on Dependable and Secure Computing (TDSC) , 12(1): 58-70, 2015. [<a href="files/tdsc.pdf">PDF</a>][<a href="http://ieeexplore.ieee.org/document/6775264/?arnumber=6775264">DOI</a>] Note: hBFT has potential safety issues, as published <a href="https://arxiv.org/abs/1902.08505">here</a>.
 
 ### Manuscripts
-- Daniel Collins, Sisi Duan, Julian Loss, Charalampos Papamanthou, Giorgos Tsimos, and Haochen Wang<sup>*</sup>. Towards Optimal Parallel Broadcast under a Dishonest Majority. [<a href="https://eprint.iacr.org/2024/974">eprint</a>]
 - Xin Wang<sup>*</sup>, Haochen Wang<sup>*</sup>, Haibin Zhang, and Sisi Duan. Pando: Extremely Scalable BFT Based on Committee Sampling. [<a href="https://eprint.iacr.org/2024/664">eprint</a>]
 - Chenxu Wang<sup>*</sup>, Sisi Duan, Minghui Xu, Feng Li, and Xiuzhen Cheng. Sleepy Consensus in the Known Participation Model. [<a href="https://eprint.iacr.org/2024/137">eprint</a>]
 - Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang. FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts [<a href="https://arxiv.org/abs/2311.05608">arxiv</a>]
