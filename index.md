@@ -78,7 +78,7 @@ Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DB
 - [s1] James R. Clavin<sup>*</sup> and Sisi Duan. Demo Abstract: ByzGame, a Visualized and Understandable BFT Consensus. Middleware 2019. [<a href="files/byzgamemiddleware.pdf">PDF</a>][<a href="https://dl.acm.org/citation.cfm?id=3368109">DOI</a>]
 
 ### Journal
-- [j14] Haochen Wang<sup>*</sup>, Qidi you, and Sisi Duan. Synchronous Byzantine Agreement with O(n) Messages and O(1) Expected Time. IEEE Transactions on Information Forensics and Security (TIFS), to appear. 
+- [j14] Haochen Wang<sup>*</sup>, Qidi You, and Sisi Duan. Synchronous Byzantine Agreement with O(n) Messages and O(1) Expected Time. IEEE Transactions on Information Forensics and Security (TIFS), to appear. 
 - [j13] Yue Huang<sup>*</sup>, Huizhong Li, Yi Sun, and Sisi Duan. Byzantine Fault Tolerance with Non-Determinism, Revisited. IEEE Transactions on Information Forensics and Security (TIFS), to appear. [<a href="https://eprint.iacr.org/2024/134">eprint</a>]
 - [j12] Rujia Li<sup>*</sup>, Yuanzhao Li, Qin Wang, Sisi Duan, Qi Wang, and Mark Ryan. Accountable Decryption made Formal and Practical. IEEE Transactions on Information Forensics and Security (TIFS), to appear. [<a href="https://eprint.iacr.org/2023/1519">eprint</a>]
 - [j11] Rujia Li<sup>*</sup>, Qin Wang, Yuanzhao Li, Sisi Duan, Qi Wang, and David Galindo. Bringing Smart Contract Confidentiality via Trusted Hardware: Fact and Fiction. IEEE Transactions on Information Forensics and Security (TIFS), 2024 (online). [<a href="https://ieeexplore.ieee.org/abstract/document/10723772">DOI</a>]
