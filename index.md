@@ -35,6 +35,7 @@ Dr. Sisi Duan is a Researcher at the <a href="https://www.ias.tsinghua.edu.cn/en
 Also see my papers at <a href="http://dblp.uni-trier.de/pers/hd/d/Duan:Sisi"> DBLP</a> and <a href="https://scholar.google.com/citations?user=iHMbdVUAAAAJ&hl=en"> Google Scholar</a>. *Students under my supervision.<br>
 
 ### Conference Full Papers
+- [c37] Mingfei Zhang, Rujia Li, Xueqian Lu, and Sisi Duan. Available Attestation: Towards a Reorg-Resilient Solution for Ethereum Proof-of-Stake. Usenix Security 2025. [DOI][<a href="https://eprint.iacr.org/2025/097">eprint</a>]
 - [c36] Yichen Gong, Delong Ran, Jinyuan Liu, Conglei Wang, Tianshuo Cong, Anyu Wang, Sisi Duan, Xiaoyun Wang. FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts. AAAI 2025. [<a href="https://arxiv.org/abs/2311.05608">arxiv</a>]
 - [c35] Daniel Collins, Sisi Duan, Julian Loss, Charalampos Papamanthou, Giorgos Tsimos, and Haochen Wang<sup>*</sup>. Towards Optimal Parallel Broadcast under a Dishonest Majority. FC 2025. [<a href="https://eprint.iacr.org/2024/974">eprint</a>]
 - [c34] Xuanji Meng<sup>*</sup>, Xiao Sui<sup>*</sup>, Zhaoxin Yang<sup>*</sup>, Kang Rong, Wenbo Xu, Shenglong Chen, Ying Yan, Sisi Duan. Rondo: Scalable and Reconfiguration-Friendly Randomness Beacon. NDSS 2025. [DOI][<a href="https://eprint.iacr.org/2024/641">eprint</a>]
@@ -122,7 +123,7 @@ I have been fortunate to work with some great students.
 
 #### Master
 - Shuhe Cao (Fall 2024 - now)
-
+- Jingyuan Ding (Fall 204 - now)
 
 #### Undergraduate Students
 - Qichang Liu
